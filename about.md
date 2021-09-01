@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Alt text](/images/me.png){: .callout}
+![Alt text](/images/me.jpeg){: .callout}
 
 I am a first year Ph.D. student at Carleton University, within [the Computational Geometry Lab](https://cglab.ca/), I am advised by [Prof. Pat Morin](https://cglab.ca/~morin/) and [Prof. Vida Dujmović](https://cglab.ca/~vida/).
 
