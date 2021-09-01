@@ -8,7 +8,7 @@ permalink: /about/
 
 I am a first year Ph.D. student at Carleton University, within [the Computational Geometry Lab](https://cglab.ca/), I am advised by [Prof. Pat Morin](https://cglab.ca/~morin/) and [Prof. Vida Dujmović](https://cglab.ca/~vida/).
 
-I graduated with a master degree in computer science from the [Parisian Master of Research in Computer Science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php), I was a student at [Ecole Polytechnique](https://www.polytechnique.edu/) and [Paris-Saclay University](https://www.universite-paris-saclay.fr/).
+I graduated with a master degree in Computer Science from the [Parisian Master of Research in Computer Science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php), I was a student at [Ecole Polytechnique](https://www.polytechnique.edu/) and [Paris-Saclay University](https://www.universite-paris-saclay.fr/).
 
  I was very fortunate to be advised by [Prof. Vincent Cohen-Addad](https://www.di.ens.fr/~vcohen/) during  my master research internship at [LIP6](https://www.lip6.fr/recherche/team.php?acronyme=RO).
 
