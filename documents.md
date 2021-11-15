@@ -3,6 +3,9 @@ layout: page
 title: ""
 ---
 
+## Lecture Notes
+* [The Fundemantal Group - Algebraic Topology]({{ site.baseurl }}/pdfs/AT1.pdf)
+
 ## Computer Science Internship and Project Reports
 
 * [Optimizing Low Auto-correlation Binary Sequences]({{ site.baseurl }}/pdfs/labs.pdf) Solving optimization problems with search heuristics course project.
