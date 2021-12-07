@@ -4,7 +4,9 @@ title: ""
 ---
 
 ## Lecture Notes
-* [The Fundemantal Group - Algebraic Topology]({{ site.baseurl }}/pdfs/AT1.pdf)
+* [The Fundamental Group - Algebraic Topology]({{ site.baseurl }}/pdfs/AT1.pdf)
+* [The Fundamental Group & Covering Spaces - Algebraic Topology]({{ site.baseurl }}/pdfs/AT2.pdf)
+
 
 ## Computer Science Internship and Project Reports
 
