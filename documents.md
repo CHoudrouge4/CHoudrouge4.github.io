@@ -10,6 +10,8 @@ title: ""
 
 ## Computer Science Internship and Project Reports
 
+* [Dynamic Optimality, a Short Overview]({{ site.baseurl }}/pdfs/ADS.pdf) Project for Advanced Data Structures course.
+
 * [Optimizing Low Auto-correlation Binary Sequences]({{ site.baseurl }}/pdfs/labs.pdf) Solving optimization problems with search heuristics course project.
 
 * [Topological Optimization Using Laguerre Diagram]({{ site.baseurl }}/pdfs/m1_research_Internship_report.pdf) First year research internship.
