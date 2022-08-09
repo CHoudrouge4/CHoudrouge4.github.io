@@ -14,10 +14,10 @@ title: ""
 
 * [Optimizing Low Auto-correlation Binary Sequences]({{ site.baseurl }}/pdfs/labs.pdf) Solving optimization problems with search heuristics course project.
 
-* [Topological Optimization Using Laguerre Diagram]({{ site.baseurl }}/pdfs/m1_research_Internship_report.pdf) First year research internship.
+* [Topological Optimization Using Laguerre Diagram]({{ site.baseurl }}/pdfs/m1_research_Internship_report.pdf) Research internship report at LORIA/INRIA Nancy.
 
 * [Scalable Nearest Neighbour Algorithms for High
-Dimensional Data]({{ site.baseurl }}/pdfs/snnahdd.pdf) First year project report.
+Dimensional Data]({{ site.baseurl }}/pdfs/snnahdd.pdf) Project report.
 
 * [Computing Geodesic Distance Based on Heat Flow]({{ site.baseurl }}/pdfs/cggbohf.pdf) Digital Analysis and Representation of Shapes course project.
 
