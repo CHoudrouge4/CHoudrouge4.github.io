@@ -3,9 +3,9 @@ layout: default
 title: About
 ---
 
-![Alt text](/images/me.jpeg){: .callout}
+![Alt text](/images/me.jpg){: .callout}
 
-I am a first year Ph.D. student at Carleton University, within [the Computational Geometry Lab](https://cglab.ca/), I am advised by [Prof. Pat Morin](https://cglab.ca/~morin/) and [Prof. Vida Dujmović](https://cglab.ca/~vida/).
+I am a second year Ph.D. student at Carleton University, within [the Computational Geometry Lab](https://cglab.ca/), I am advised by [Prof. Pat Morin](https://cglab.ca/~morin/) and [Prof. Vida Dujmović](https://cglab.ca/~vida/).
 
 I graduated with a master degree in Computer Science from the [Parisian Master of Research in Computer Science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php), I was a student at [Ecole Polytechnique](https://www.polytechnique.edu/) and [Paris-Saclay University](https://www.universite-paris-saclay.fr/).
 
@@ -14,9 +14,8 @@ I graduated with a master degree in Computer Science from the [Parisian Master o
 During my undergraduate studies, I was a USAID Scholar at the [American University of Beirut](http://www.aub.edu.lb/) where I graduated with a Bachelor of Science in Computer Science and a Minor in Computational Science in 2017.
 
 My research interests include:
-* Algorithms and Complexity Theory
-* Discrete & Computational Geometry
-* Computational Science
+* The intersections between Theoretical Computer Science, Geometry, and Topology  
+* Computational Science (Computational physics, numerical simulation...).
 
 My CV can be found [here]({{ site.baseurl }}/pdfs/cv.pdf).
 
