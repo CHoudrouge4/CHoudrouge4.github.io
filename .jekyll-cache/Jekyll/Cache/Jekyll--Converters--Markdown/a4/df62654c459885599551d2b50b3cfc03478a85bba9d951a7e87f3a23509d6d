@@ -1,0 +1,25 @@
+I"ç<h1 id="comp-52024202">COMP 5202/4202</h1>
+
+<ul>
+  <li>Question 1
+Check this <a href="https://math.stackexchange.com/questions/160746/equality-of-voronoi-diagram">link</a>.</li>
+</ul>
+
+<p>Voronoi Diagram has a unique point set if and only if the points are in general positions i.e.
+No three points are collinear, and no four points are co-circular. Such point set has a unique Delaunay triangulation which implies a unique Vornoi Diagram.</p>
+
+<ul>
+  <li>
+    <p>Question 2
+Check the following <a href="/pdfs/COMP_5204.pdf">document.</a>.</p>
+  </li>
+  <li>Question 3 may have several answers as far as it make sense, it is correct.</li>
+  <li>Question 4 is straightforward from the Lecture.</li>
+</ul>
+
+<p>Resources on Sweep Line Technique:</p>
+<ul>
+  <li>Check <a href="https://ti.inf.ethz.ch/ew/courses/CG13/lecture/Chapter%205%20-%20update.pdf">this link</a></li>
+  <li>Chapter 2, Chapter 7, Chapter 15 in Computational Geometry Algorithms and Applications by Mark De Berg &amp; et.</li>
+</ul>
+:ET

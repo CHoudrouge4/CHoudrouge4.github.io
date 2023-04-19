@@ -1,0 +1,17 @@
+I"<p>#COMP 5202/4202</p>
+
+<ul>
+  <li>Question 1
+Check this <a href="https://math.stackexchange.com/questions/160746/equality-of-voronoi-diagram">link</a>.</li>
+</ul>
+
+<p>Voronoi Diagram has a unique point set if and only if the points are in general positions i.e.
+No three points are collinear, and no four points are co-circular. Such point set has a unique Delaunay triangulation which implies a unique Vornoi Diagram.</p>
+
+<ul>
+  <li>Question 2
+Check the following <a href="/pdfs/COMP_5204.pdf">document.</a>.</li>
+</ul>
+
+<p>*</p>
+:ET
