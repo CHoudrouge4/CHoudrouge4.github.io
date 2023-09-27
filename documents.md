@@ -10,6 +10,8 @@ title: ""
 
 ## Computer Science Internship and Project Reports
 
+* [FPT Approximation for FPT Problems]({{ site.baseurl }}/pdfs/FPT_Approximation_for_FPT_Problems.pdf) Project for Algorithms for Data Science.
+
 * [Dynamic Optimality, a Short Overview]({{ site.baseurl }}/pdfs/ADS.pdf) Project for Advanced Data Structures course.
 
 * [Optimizing Low Auto-correlation Binary Sequences]({{ site.baseurl }}/pdfs/labs.pdf) Solving optimization problems with search heuristics course project.
