@@ -3,6 +3,10 @@ layout: default
 title: Art
 ---
 
+![Alt text](/images/my_drawings/mimene.jpg)
+
+![Alt text](/images/my_drawings/DetJ.jpg)
+
 ![Alt text](/images/my_drawings/1.JPG)
 
 ![Alt text](/images/my_drawings/2.JPG)

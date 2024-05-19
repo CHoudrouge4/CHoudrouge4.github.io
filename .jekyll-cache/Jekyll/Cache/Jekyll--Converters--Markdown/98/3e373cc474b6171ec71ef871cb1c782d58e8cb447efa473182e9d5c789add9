@@ -1,6 +1,6 @@
-I"�<p><img src="/images/me.jpg" alt="Alt text" class="callout" /></p>
+I"�<p><img src="/images/me.jpg" alt="Alt text" class="callout" /></p>
 
-<p>I am a second year Ph.D. student at Carleton University, within <a href="https://cglab.ca/">the Computational Geometry Lab</a>, I am advised by <a href="https://cglab.ca/~morin/">Prof. Pat Morin</a> and <a href="https://cglab.ca/~vida/">Prof. Vida Dujmović</a>.</p>
+<p>I am a third year Ph.D. student at Carleton University, within <a href="https://cglab.ca/">The Algorithms, Graphs, and Geometry Lab</a>, I am supervised by <a href="https://cglab.ca/~morin/">Prof. Pat Morin</a> and <a href="https://cglab.ca/~vida/">Prof. Vida Dujmović</a>.</p>
 
 <p>I graduated with a master degree in Computer Science from the <a href="https://wikimpri.dptinfo.ens-cachan.fr/doku.php">Parisian Master of Research in Computer Science</a>, I was a student at <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a> and <a href="https://www.universite-paris-saclay.fr/">Paris-Saclay University</a>.</p>
 
@@ -10,18 +10,25 @@
 
 <p>My research interests include:</p>
 <ul>
-  <li>The intersections between Theoretical Computer Science, Geometry, and Topology</li>
+  <li>The intersections between Theoretical Computer Science, Geometry, and Topology.</li>
   <li>Computational Science (Computational physics, numerical simulation…).</li>
 </ul>
 
 <p>My CV can be found <a href="/pdfs/cv.pdf">here</a>.</p>
 
 <h2 id="publications">Publications</h2>
+
 <ul>
   <li>
-    <p><strong>Linear versus centred chromatic numbers</strong>
+    <p><strong>Connected Dominating Sets in Triangulations</strong>
+  Joint work with <a href="http://jitbose.ca/">Prosenjit Bose</a>, <a href="https://cglab.ca/~vida/">Vida Dujmović</a>, <a href="https://cglab.ca/~morin/">Pat Morin</a>, and <a href="https://www.linkedin.com/in/saeedodak">Saeed Odak</a>.
+  Submitted to SoCG 2024 in December 2023 and rejected in February 2024. <a href="https://arxiv.org/abs/2312.03399">arxiv:2312.03399</a>.</p>
+  </li>
+  <li>
+    <p><strong>Linear versus Centred Chromatic Numbers</strong>
   Joint work with <a href="http://jitbose.ca/">Prosenjit Bose</a>, <a href="https://cglab.ca/~vida/">Vida Dujmović</a>, <a href="https://ir.linkedin.com/in/mehrnoosh-javarsineh-0677596a">Mehrnoosh Javarsineh</a>, and <a href="https://cglab.ca/~morin/">Pat Morin</a>.
-  The article is currently on <a href="https://arxiv.org/abs/2205.15096">arxiv:2205.15096</a>, 2022.</p>
+  Journal of Graph Theory. Accepted, pending minor revisions, in March 2024.
+  <a href="https://arxiv.org/abs/2205.15096">arxiv:2205.15096</a>, 2022.</p>
   </li>
   <li>
     <p><strong>Subquadratic High-Dimensional Hierarchical Clustering</strong>

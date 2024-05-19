@@ -23,11 +23,12 @@ My CV can be found [here]({{ site.baseurl }}/pdfs/cv.pdf).
 
   * **Connected Dominating Sets in Triangulations**
   Joint work with [Prosenjit Bose](http://jitbose.ca/), [Vida Dujmović](https://cglab.ca/~vida/), [Pat Morin](https://cglab.ca/~morin/), and [Saeed Odak](https://www.linkedin.com/in/saeedodak).
-  Submitted to SoCG 2024 in December 2023.
+  Submitted to SoCG 2024 in December 2023 and rejected in February 2024. [arxiv:2312.03399](https://arxiv.org/abs/2312.03399).
+
 
   * **Linear versus Centred Chromatic Numbers**
   Joint work with [Prosenjit Bose](http://jitbose.ca/), [Vida Dujmović](https://cglab.ca/~vida/), [Mehrnoosh Javarsineh](https://ir.linkedin.com/in/mehrnoosh-javarsineh-0677596a), and [Pat Morin](https://cglab.ca/~morin/).
-  Submitted to Journal of Graph Theory in August 2022.
+  Journal of Graph Theory. Accepted, pending minor revisions, in March 2024.
   [arxiv:2205.15096](https://arxiv.org/abs/2205.15096), 2022.
 
   * **Subquadratic High-Dimensional Hierarchical Clustering**
