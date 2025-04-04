@@ -21,6 +21,9 @@ My CV can be found [here]({{ site.baseurl }}/pdfs/cv.pdf).
 
 ## Publications
 
+  * **Separation Number and Treewidth, Revisited**
+  Joint work with Babak Miraftab and [Pat Morin](https://cglab.ca/~morin/). [arXiv:2503.17112](https://arxiv.org/abs/2503.17112v1)
+
   * **Connected Dominating Sets in Triangulations**
   Joint work with [Prosenjit Bose](http://jitbose.ca/), [Vida Dujmović](https://cglab.ca/~vida/), [Pat Morin](https://cglab.ca/~morin/), and [Saeed Odak](https://www.linkedin.com/in/saeedodak).
   Submitted to SoCG 2024 in December 2023 and rejected in February 2024. [arxiv:2312.03399](https://arxiv.org/abs/2312.03399)
