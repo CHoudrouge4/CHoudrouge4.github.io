@@ -5,7 +5,7 @@ title: About
 
 ![Alt text](/images/me.jpg){: .callout}
 
-I am a third year Ph.D. student at Carleton University, within [The Algorithms, Graphs, and Geometry Lab](https://cglab.ca/), I am supervised by [Prof. Pat Morin](https://cglab.ca/~morin/) and [Prof. Vida Dujmović](https://cglab.ca/~vida/).
+I am a fourth year Ph.D. student at Carleton University, within [The Algorithms, Graphs, and Geometry Lab](https://cglab.ca/), I am supervised by [Prof. Pat Morin](https://cglab.ca/~morin/) and [Prof. Vida Dujmović](https://cglab.ca/~vida/).
 
 I graduated with a master degree in Computer Science from the [Parisian Master of Research in Computer Science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php), I was a student at [Ecole Polytechnique](https://www.polytechnique.edu/) and [Paris-Saclay University](https://www.universite-paris-saclay.fr/).
 
@@ -13,18 +13,18 @@ I graduated with a master degree in Computer Science from the [Parisian Master o
 
 During my undergraduate studies, I was a USAID Scholar at the [American University of Beirut](http://www.aub.edu.lb/) where I graduated with a Bachelor of Science in Computer Science and a Minor in Computational Science in 2017.
 
-My research interests include:
-* The intersections between Theoretical Computer Science, Geometry, and Topology.  
-* Computational Science (Computational physics, numerical simulation...).
+Currently, my research interests is focused on Extremal and Structural Graph Theory. Generally, I am interested in Theoretical Computer Science and Discrete Mathematics.
 
 My CV can be found [here]({{ site.baseurl }}/pdfs/cv.pdf).
 
 ## Publications
 
+  * **Separation Number and Treewidth, Revisited**
+  Joint work with Babak Miraftab and [Pat Morin](https://cglab.ca/~morin/). [arXiv:2503.17112](https://arxiv.org/abs/2503.17112v1)
+
   * **Connected Dominating Sets in Triangulations**
   Joint work with [Prosenjit Bose](http://jitbose.ca/), [Vida Dujmović](https://cglab.ca/~vida/), [Pat Morin](https://cglab.ca/~morin/), and [Saeed Odak](https://www.linkedin.com/in/saeedodak).
-  Submitted to SoCG 2024 in December 2023 and rejected in February 2024. [arxiv:2312.03399](https://arxiv.org/abs/2312.03399).
-
+  Submitted to SoCG 2024 in December 2023 and rejected in February 2024. [arxiv:2312.03399](https://arxiv.org/abs/2312.03399)
 
   * **Linear versus Centred Chromatic Numbers**
   Joint work with [Prosenjit Bose](http://jitbose.ca/), [Vida Dujmović](https://cglab.ca/~vida/), [Mehrnoosh Javarsineh](https://ir.linkedin.com/in/mehrnoosh-javarsineh-0677596a), and [Pat Morin](https://cglab.ca/~morin/).
