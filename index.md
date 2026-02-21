@@ -9,7 +9,7 @@ I am a final year Ph.D. student within [The Algorithms, Graphs, and Geometry Lab
 
 Previously, I did my master research internship at [LIP6](https://www.lip6.fr/recherche/team.php?acronyme=RO). I was very fortunate to be advised by [Prof. Vincent Cohen-Addad](https://www.di.ens.fr/~vcohen/).
 
-My research interests is focused on Extremal and Structural Graph Theory. Broadly, I am interested in Theoretical Computer Science and Discrete Mathematics.
+My research interests lie in extremal and structural graph theory, with a broader interest in theoretical computer science and discrete mathematics.
 
 My CV can be found [here]({{ site.baseurl }}/pdfs/cv.pdf).
 
