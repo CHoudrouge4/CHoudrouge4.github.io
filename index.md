@@ -15,6 +15,9 @@ My CV can be found [here]({{ site.baseurl }}/pdfs/cv.pdf).
 
 ## Publications
 
+  * **2-dimensional Unit Vector Flows**
+  Joint work with Babak Miraftab and [Pat Morin](https://cglab.ca/~morin/).[arXiv:2602.21526](https://arxiv.org/abs/2602.21526)
+
   * **Separation Number and Treewidth, Revisited**
   Joint work with Babak Miraftab and [Pat Morin](https://cglab.ca/~morin/). [arXiv:2503.17112](https://arxiv.org/abs/2503.17112v1)
 
@@ -28,7 +31,7 @@ My CV can be found [here]({{ site.baseurl }}/pdfs/cv.pdf).
 
   * **Subquadratic High-Dimensional Hierarchical Clustering**
   Joint work with [Vincent Cohen-Addad](https://www.di.ens.fr/~vcohen/) and Amir Abboud.
-Proceedings of the conference on Neural Information Processing Systems (Neurips) 2019.
+Proceedings of the conference on Neural Information Processing Systems (NeurIPS) 2019.
 
 #### For informal publications (internship reports, project reports...) please check the [documents section.](https://choudrouge4.github.io/documents/)
 
