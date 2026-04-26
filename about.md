@@ -19,10 +19,12 @@ My CV can be found [here]({{ site.baseurl }}/pdfs/cv.pdf).
   Joint work with Babak Miraftab and [Pat Morin](https://cglab.ca/~morin/).[arXiv:2602.21526](https://arxiv.org/abs/2602.21526)
 
   * **Separation Number and Treewidth, Revisited**
-  Joint work with Babak Miraftab and [Pat Morin](https://cglab.ca/~morin/). [arXiv:2503.17112](https://arxiv.org/abs/2503.17112v1)
+  Joint work with Babak Miraftab and [Pat Morin](https://cglab.ca/~morin/).
+  Discrete Mathematics, Accepted in March 2026. [arXiv:2503.17112](https://arxiv.org/abs/2503.17112v1)
 
   * **Connected Dominating Sets in Triangulations**
-  Joint work with [Prosenjit Bose](http://jitbose.ca/), [Vida Dujmović](https://cglab.ca/~vida/), [Pat Morin](https://cglab.ca/~morin/), and [Saeed Odak](https://www.linkedin.com/in/saeedodak). [arxiv:2312.03399](https://arxiv.org/abs/2312.03399)
+  Joint work with [Prosenjit Bose](http://jitbose.ca/), [Vida Dujmović](https://cglab.ca/~vida/), [Pat Morin](https://cglab.ca/~morin/), and [Saeed Odak](https://www.linkedin.com/in/saeedodak).
+  In the proceedings of The 53rd International Colloquium on Automata, Languages, and Programming (ICALP 2026). [arxiv:2312.03399](https://arxiv.org/abs/2312.03399)
 
   * **Linear versus Centred Chromatic Numbers**
   Joint work with [Prosenjit Bose](http://jitbose.ca/), [Vida Dujmović](https://cglab.ca/~vida/), [Mehrnoosh Javarsineh](https://ir.linkedin.com/in/mehrnoosh-javarsineh-0677596a), and [Pat Morin](https://cglab.ca/~morin/).
@@ -31,7 +33,7 @@ My CV can be found [here]({{ site.baseurl }}/pdfs/cv.pdf).
 
   * **Subquadratic High-Dimensional Hierarchical Clustering**
   Joint work with [Vincent Cohen-Addad](https://www.di.ens.fr/~vcohen/) and Amir Abboud.
-Proceedings of the conference on Neural Information Processing Systems (NeurIPS) 2019.
+  Proceedings of the conference on Neural Information Processing Systems (NeurIPS) 2019.
 
 #### For informal publications (internship reports, project reports...) please check the [documents section.](https://choudrouge4.github.io/documents/)
 
