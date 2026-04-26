@@ -15,15 +15,11 @@ title: Art
 
 ![Alt text](/images/my_drawings/4.JPG)
 
-![Alt text](/images/my_drawings/5.JPG)
-
 ![Alt text](/images/my_drawings/6.JPG)
 
 ![Alt text](/images/my_drawings/7.JPG)
 
 ![Alt text](/images/my_drawings/8.JPG)
-
-![Alt text](/images/my_drawings/9.JPG)
 
 ![Alt text](/images/my_drawings/10.JPG)
 
