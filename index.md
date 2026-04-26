@@ -16,7 +16,7 @@ My CV can be found [here]({{ site.baseurl }}/pdfs/cv.pdf).
 ## Publications
 
   * **2-dimensional Unit Vector Flows**
-  Joint work with Babak Miraftab and [Pat Morin](https://cglab.ca/~morin/).[arXiv:2602.21526](https://arxiv.org/abs/2602.21526)
+  Joint work with Babak Miraftab and [Pat Morin](https://cglab.ca/~morin/). [arXiv:2602.21526](https://arxiv.org/abs/2602.21526)
 
   * **Separation Number and Treewidth, Revisited**
   Joint work with Babak Miraftab and [Pat Morin](https://cglab.ca/~morin/).
