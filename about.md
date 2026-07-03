@@ -15,6 +15,9 @@ My CV can be found [here]({{ site.baseurl }}/pdfs/cv.pdf).
 
 ## Publications
 
+  * **3-Colouring Graphs Excluding a Fixed Minor**
+  Joint work with [Vida Dujmović](https://cglab.ca/~vida/) and [Pat Morin](https://cglab.ca/~morin/). [arXiv:2607.02159](https://arxiv.org/abs/2607.02159)
+
   * **2-dimensional Unit Vector Flows**
   Joint work with Babak Miraftab and [Pat Morin](https://cglab.ca/~morin/). [arXiv:2602.21526](https://arxiv.org/abs/2602.21526)
 
