@@ -5,7 +5,9 @@ title: About
 
 ![Alt text](/images/me.jpg){: .callout}
 
-I am a final year Ph.D. student within [The Algorithms, Graphs, and Geometry Lab](https://cglab.ca/), I am supervised by [Prof. Pat Morin](https://cglab.ca/~morin/) and [Prof. Vida Dujmović](https://cglab.ca/~vida/).
+Currently, I am a postdoc researcher in [Prof. Kin-ichi Kawarabayashi](https://research.nii.ac.jp/~k_keniti/) group at the [National Institute of Informatics](https://www.nii.ac.jp/en/).
+
+I did my Ph.D. at [The Algorithms, Graphs, and Geometry Lab](https://cglab.ca/), am grateful to have been supervised by [Prof. Pat Morin](https://cglab.ca/~morin/) and [Prof. Vida Dujmović](https://cglab.ca/~vida/).
 
 Previously, I did my master research internship at [LIP6](https://www.lip6.fr/recherche/team.php?acronyme=RO). I was very fortunate to be advised by [Prof. Vincent Cohen-Addad](https://www.di.ens.fr/~vcohen/).
 
@@ -16,14 +18,14 @@ My CV can be found [here]({{ site.baseurl }}/pdfs/cv.pdf).
 ## Publications
 
   * **3-Colouring Graphs Excluding a Fixed Minor**
-  Joint work with [Vida Dujmović](https://cglab.ca/~vida/) and [Pat Morin](https://cglab.ca/~morin/). [arXiv:2607.02159](https://arxiv.org/abs/2607.02159)
+  Joint work with [Vida Dujmović](https://cglab.ca/~vida/) and [Pat Morin](https://cglab.ca/~morin/). [arXiv:2607.02159](https://arxiv.org/abs/2607.02159), 2026.
 
   * **2-dimensional Unit Vector Flows**
-  Joint work with Babak Miraftab and [Pat Morin](https://cglab.ca/~morin/). [arXiv:2602.21526](https://arxiv.org/abs/2602.21526)
+  Joint work with Babak Miraftab and [Pat Morin](https://cglab.ca/~morin/). [arXiv:2602.21526](https://arxiv.org/abs/2602.21526), 2025.
 
   * **Separation Number and Treewidth, Revisited**
   Joint work with Babak Miraftab and [Pat Morin](https://cglab.ca/~morin/).
-  Discrete Mathematics, Accepted in March 2026. [arXiv:2503.17112](https://arxiv.org/abs/2503.17112v1)
+  Discrete Mathematics, Accepted in March 2026 [arXiv:2503.17112](https://arxiv.org/abs/2503.17112v1).
 
   * **Connected Dominating Sets in Triangulations**
   Joint work with [Prosenjit Bose](http://jitbose.ca/), [Vida Dujmović](https://cglab.ca/~vida/), [Pat Morin](https://cglab.ca/~morin/), and [Saeed Odak](https://www.linkedin.com/in/saeedodak).
@@ -35,7 +37,7 @@ My CV can be found [here]({{ site.baseurl }}/pdfs/cv.pdf).
   [arxiv:2205.15096](https://arxiv.org/abs/2205.15096), 2022.
 
   * **Subquadratic High-Dimensional Hierarchical Clustering**
-  Joint work with [Vincent Cohen-Addad](https://www.di.ens.fr/~vcohen/) and Amir Abboud.
+  Joint work with Amir Abboud and [Vincent Cohen-Addad](https://www.di.ens.fr/~vcohen/).
   Proceedings of the conference on Neural Information Processing Systems (NeurIPS) 2019.
 
 #### For informal publications (internship reports, project reports...) please check the [documents section.](https://choudrouge4.github.io/documents/)

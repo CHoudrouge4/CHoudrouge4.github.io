@@ -1,3 +1,4 @@
+
 #
 # This file contains configuration flags to customize your site
 #
@@ -18,12 +19,12 @@ avatar: /Dodecahedron.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: hah51@mail.aub.edu
+  email:
   facebook:
   flickr:
   github: CHoudrouge4
   instagram:
-  linkedin: husseinhoudrouge
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
@@ -84,3 +85,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - vendor
