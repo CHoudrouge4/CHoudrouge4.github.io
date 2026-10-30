@@ -18,10 +18,10 @@ My CV can be found [here]({{ site.baseurl }}/pdfs/cv.pdf).
 ## Publications
 
   * **3-Colouring Graphs Excluding a Fixed Minor**
-  Joint work with [Vida Dujmović](https://cglab.ca/~vida/) and [Pat Morin](https://cglab.ca/~morin/). [arXiv:2607.02159](https://arxiv.org/abs/2607.02159), 2026.
+  Joint work with [Vida Dujmović](https://cglab.ca/~vida/) and [Pat Morin](https://cglab.ca/~morin/). [arXiv:2607.02159](https://arxiv.org/abs/2607.02159), 2026. Submitted to Journal of Combinatorial Theory: Series B in October 2026.
 
   * **2-dimensional Unit Vector Flows**
-  Joint work with Babak Miraftab and [Pat Morin](https://cglab.ca/~morin/). [arXiv:2602.21526](https://arxiv.org/abs/2602.21526), 2025.
+  Joint work with Babak Miraftab and [Pat Morin](https://cglab.ca/~morin/). [arXiv:2602.21526](https://arxiv.org/abs/2602.21526), 2025. Submitted to Electronic Journal of Combinatorics in March 2026.
 
   * **Separation Number and Treewidth, Revisited**
   Joint work with Babak Miraftab and [Pat Morin](https://cglab.ca/~morin/).
